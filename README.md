@@ -1,7 +1,8 @@
 Mindblow
 Mindblow is a comprehensive full-stack fitness tracking web application designed to enhance users' physical and mental well-being. It offers features like workout logging, music playlist management, workout buddy matching, and emotional state tracking.
 
-🚀 Features
+🚀 Features:
+
 Workout Logging: Track and manage your fitness routines efficiently.
 
 Music Playlist Management: Create and customize playlists to accompany your workouts.
@@ -12,7 +13,8 @@ Emotional State Tracking: Monitor your mood and motivation levels in relation to
 
 Data Visualization: Gain insights into your emotional trends over time.
 
-🛠️ Tech Stack
+🛠️ Tech Stack:
+
 Frontend: React, React Router, Material-UI, Styled Components
 
 Backend: Node.js, Express.js
@@ -23,7 +25,8 @@ Authentication: JWT-based secure authentication
 
 APIs: Integration with JioSaavn for music search
 
-📈 Emotional State Tracker
+📈 Emotional State Tracker:
+
 The Emotional State Tracker allows users to:
 
 Log their current mood (Happy, Satisfied, Neutral, Sad) and motivation level (Low, Medium, High).
@@ -34,19 +37,22 @@ Visualize mood trends over selected time ranges (Past Week, Month, Year).
 
 Receive insights such as average mood, mood improvement percentages, and common workout times.
 
-🔐 Authentication
+🔐 Authentication:
+
 Sign Up/Login: Users can create accounts and log in securely.
 
 JWT Tokens: Upon successful authentication, users receive a JWT for session management.
 
 Protected Routes: Certain routes are secured and require valid JWTs to access.
 
-🎵 Music Integration
+🎵 Music Integration:
+
 Search: Users can search for songs using the integrated JioSaavn API.
 
 Playlist Management: Add or remove songs from personalized workout playlists.
 
-🤝 Contributing
+🤝 Contributing:
+
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
 Screenshots:
