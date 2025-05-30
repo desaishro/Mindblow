@@ -1,3 +1,56 @@
+Mindblow
+Mindblow is a comprehensive full-stack fitness tracking web application designed to enhance users' physical and mental well-being. It offers features like workout logging, music playlist management, workout buddy matching, and emotional state tracking.
+
+🚀 Features
+Workout Logging: Track and manage your fitness routines efficiently.
+
+Music Playlist Management: Create and customize playlists to accompany your workouts.
+
+Workout Buddy Matching: Connect with others to find workout partners based on preferences.
+
+Emotional State Tracking: Monitor your mood and motivation levels in relation to your workouts.
+
+Data Visualization: Gain insights into your emotional trends over time.
+
+🛠️ Tech Stack
+Frontend: React, React Router, Material-UI, Styled Components
+
+Backend: Node.js, Express.js
+
+Database: MongoDB with Mongoose
+
+Authentication: JWT-based secure authentication
+
+APIs: Integration with JioSaavn for music search
+
+📈 Emotional State Tracker
+The Emotional State Tracker allows users to:
+
+Log their current mood (Happy, Satisfied, Neutral, Sad) and motivation level (Low, Medium, High).
+
+Associate moods with specific workout types and optional journal entries.
+
+Visualize mood trends over selected time ranges (Past Week, Month, Year).
+
+Receive insights such as average mood, mood improvement percentages, and common workout times.
+
+🔐 Authentication
+Sign Up/Login: Users can create accounts and log in securely.
+
+JWT Tokens: Upon successful authentication, users receive a JWT for session management.
+
+Protected Routes: Certain routes are secured and require valid JWTs to access.
+
+🎵 Music Integration
+Search: Users can search for songs using the integrated JioSaavn API.
+
+Playlist Management: Add or remove songs from personalized workout playlists.
+
+🤝 Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+Screenshots:
+
 ![image](https://github.com/user-attachments/assets/b121baaa-8a2b-4793-8175-4be7ccaf5f14)
 
 ![image](https://github.com/user-attachments/assets/0e8bfd61-cea8-4d09-bf06-5f7d73d1c982)
