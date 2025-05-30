@@ -1,4 +1,5 @@
 Mindblow
+
 Mindblow is a comprehensive full-stack fitness tracking web application designed to enhance users' physical and mental well-being. It offers features like workout logging, music playlist management, workout buddy matching, and emotional state tracking.
 
 🚀 Features:
