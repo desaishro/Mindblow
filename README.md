@@ -1,56 +1,56 @@
-Mindblow
+# FitTrack
 
-Mindblow is a comprehensive full-stack fitness tracking web application designed to enhance users' physical and mental well-being. It offers features like workout logging, music playlist management, workout buddy matching, and emotional state tracking.
+**FitTrack** is a full-stack fitness tracking web application built to help users stay consistent and motivated in their health journey. It combines personalized workout planning, daily habit tracking, and progress visualization — all with a clean and focused user experience.
 
-🚀 Features:
+---
 
-Workout Logging: Track and manage your fitness routines efficiently.
+## 🚀 Key Features
 
-Music Playlist Management: Create and customize playlists to accompany your workouts.
+1. **Personalized Workout Planner**  
+   Automatically generates weekly workout schedules based on user-selected goals (Fat Loss, Muscle Gain, or General Fitness), including daily exercises with sets and reps.
 
-Workout Buddy Matching: Connect with others to find workout partners based on preferences.
+2. **Workout Calendar with Streak Tracker**  
+   Tracks completed workouts on a visual calendar and highlights streaks and monthly performance to build consistency.
 
-Emotional State Tracking: Monitor your mood and motivation levels in relation to your workouts.
+3. **Weekly Habit Checklist**  
+   Encourages users to develop healthy daily habits such as water intake, adequate sleep, and physical activity, with a weekly completion summary.
 
-Data Visualization: Gain insights into your emotional trends over time.
+4. **Dashboard Overview**  
+   Displays a concise summary of workouts, habit completion, and active streaks, offering users instant insight into their progress.
 
-🛠️ Tech Stack:
+5. **Exercise Tutorials**  
+   Provides short guides and video demos to help users understand correct form and improve technique.
 
-Frontend: React, React Router, Material-UI, Styled Components
+---
 
-Backend: Node.js, Express.js
+## 🛠️ Tech Stack
 
-Database: MongoDB with Mongoose
+**Frontend**: React, React Router, Tailwind CSS  
+**Backend**: Node.js, Express.js  
+**Database**: MongoDB with Mongoose  
+**Authentication**: JWT-based login and protected routes
 
-Authentication: JWT-based secure authentication
+---
 
-APIs: Integration with JioSaavn for music search
+## 🧩 Removed Features (for better user focus)
 
-📈 Emotional State Tracker:
+To enhance usability and streamline the experience, the following features were intentionally removed:
+- Mood/emotional tracking
+- Workout journaling
+- Music playlist integration
+- Calorie tracking
+- Workout buddy matching
 
-The Emotional State Tracker allows users to:
+---
 
-Log their current mood (Happy, Satisfied, Neutral, Sad) and motivation level (Low, Medium, High).
+## ✅ Getting Started (Setup)
 
-Associate moods with specific workout types and optional journal entries.
-
-Visualize mood trends over selected time ranges (Past Week, Month, Year).
-
-Receive insights such as average mood, mood improvement percentages, and common workout times.
-
-🔐 Authentication:
-
-Sign Up/Login: Users can create accounts and log in securely.
-
-JWT Tokens: Upon successful authentication, users receive a JWT for session management.
-
-Protected Routes: Certain routes are secured and require valid JWTs to access.
-
-🎵 Music Integration:
-
-Search: Users can search for songs using the integrated JioSaavn API.
-
-Playlist Management: Add or remove songs from personalized workout playlists.
+1. Clone the repository  
+2. Run `npm install` in both `/client` and `/server` folders  
+3. Set up `.env` files for backend (Mongo URI, JWT secret)  
+4. Run the app:  
+   - Client: `npm start`  
+   - Server: `npm run dev` 
 
 🤝 Contributing:
 
