@@ -32,17 +32,6 @@
 
 ---
 
-## 🧩 Removed Features (for better user focus)
-
-To enhance usability and streamline the experience, the following features were intentionally removed:
-- Mood/emotional tracking
-- Workout journaling
-- Music playlist integration
-- Calorie tracking
-- Workout buddy matching
-
----
-
 ## ✅ Getting Started (Setup)
 
 1. Clone the repository  
