@@ -5,22 +5,17 @@ It combines **personalized workout planning, habit tracking, and progress visual
 
 ---
 
-## 🔗 Live Demo
-(Add your deployed link here if available)
-
----
-
 ## 📑 Table of Contents
-- Key Features
-- Technology Stack
-- Project Structure
-- Getting Started
-- Prerequisites
-- Installation
-- Running the Application
-- Usage
-- Contributing
-- Screenshots
+- [Key Features](#key-features)
+- [Technology Stack](#technology-stack)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+  - [Running the Application](#running-the-application)
+  - [Available Scripts](#available-scripts)
+- [Contributing](#contributing)
+
 
 ---
 
@@ -224,31 +219,31 @@ git push origin feature-name
 ### Dashboard
 ![Dashboard](https://github.com/user-attachments/assets/b121baaa-8a2b-4793-8175-4be7ccaf5f14)
 
-### Workout Planner
+
 ![Workout Planner](https://github.com/user-attachments/assets/0e8bfd61-cea8-4d09-bf06-5f7d73d1c982)
 
-### Habit Tracker
+
 ![Habit Tracker](https://github.com/user-attachments/assets/f4f168e1-15bc-43d3-a227-7e7db2468451)
 
-### Workout Calendar
+
 ![Workout Calendar](https://github.com/user-attachments/assets/42e1ebe7-5fb3-4d88-80be-27aaf26e3340)
 
-### Exercise Tutorials
+
 ![Exercise Tutorials](https://github.com/user-attachments/assets/2092a1d1-e7b5-41cf-8353-78fc48793a85)
 
-### Progress Dashboard
+
 ![Progress Dashboard](https://github.com/user-attachments/assets/4faa717e-b8dd-4a13-b40c-3f7bcdde4521)
 
-### Workout Streak Tracker
+
 ![Workout Streak](https://github.com/user-attachments/assets/34e85863-7f98-4cc2-9823-22f56680be06)
 
-### Habit Summary
+
 ![Habit Summary](https://github.com/user-attachments/assets/e7ce6765-e89c-4acf-86f6-0f6c30477188)
 
-### Workout Completion
+
 ![Workout Completion](https://github.com/user-attachments/assets/c8c086a2-24db-429d-92dd-eb1aff40e4eb)
 
-### Mobile View
+
 ![Mobile View](https://github.com/user-attachments/assets/ddb222fb-45ed-423c-8b3c-beb67479c0e2)
 
 ---
