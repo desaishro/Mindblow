@@ -1,4 +1,4 @@
-# FitTrack – Fitness Tracking Web Application
+# Mindblow – Fitness Tracking Web Application
 
 **FitTrack** is a full-stack fitness tracking web application designed to help users stay consistent and motivated in their health journey.  
 It combines **personalized workout planning, habit tracking, and progress visualization** into a clean and user-friendly experience.
@@ -119,7 +119,7 @@ Make sure you have installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/desaishro/fittrack.git
+git clone https://github.com/desaishro/Mindblow.git
 ```
 
 ### 2️⃣ Navigate to the Project Directory
